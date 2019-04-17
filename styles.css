@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    background: url("https://cdn.pixabay.com/photo/2016/04/04/12/33/sky-1306769_960_720.jpg");
+    background-size: cover;
+}
+
+.moods {
+    height: 30px;
+    width: 300px;
+    font-family: 'Amatic SC', cursive;
+    background-color: #B7B7FF;
+    border: 2px solid #FFCCD5;
+    border-radius: 10px;
+
+}
+
+button {
+    height: 35px;
+    width: 70px;
+    background-color: #B7B7FF;
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 2px solid #FFCCD5;
+}
+
+.pictures {
+    border-radius: 50px;
+}
